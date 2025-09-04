@@ -15,6 +15,7 @@ Password protection for new person registration.
 Creates/Updates CSV file for details of students on registration.
 Creates a new CSV file everyday for attendance and marks attendance with proper date and time.
 Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
+
 For more information:
 https://machinelearningprojects.net/face-recognition-based-attendance-system/
 
